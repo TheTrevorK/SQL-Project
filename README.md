@@ -1,3 +1,2 @@
 # SQL-Project
-
-Data cleaning on a nashville housing dataset
+- Nashville Housing: Data Cleaning
